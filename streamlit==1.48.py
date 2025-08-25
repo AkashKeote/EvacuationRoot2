@@ -1,0 +1,10 @@
+streamlit==1.48.1
+networkx>=3.5
+osmnx
+pandas
+numpy
+geopandas
+streamlit-folium
+rapidfuzz
+fuzzywuzzy
+scikit-learn
